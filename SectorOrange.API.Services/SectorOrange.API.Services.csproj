@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SectorOrange.API.DAL\SectorOrange.API.DAL.csproj" />
+    <ProjectReference Include="..\SectorOrgange.API.Shared\SectorOrgange.API.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
